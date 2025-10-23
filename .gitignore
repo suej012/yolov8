@@ -1,0 +1,9 @@
+datasets/
+models/
+runs/
+.config/
+.vscode/
+
+*.pt
+bus.jpg
+
